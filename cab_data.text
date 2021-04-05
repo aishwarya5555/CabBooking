@@ -1,0 +1,8 @@
+locationId, vehiclelNo, vehiclelCategory, available, driverContactNo
+100,HR-26 0091,car,yes,090909878
+201,HR-26 7896,auto,yes,09876534
+301,HR-26 2345,car,yes,78902564
+011,HR-26 8798,car,no,987654
+101,HR-26 6754,auto,no,78990245
+110,HR-26 7891,bike,yes,87902453
+102,HR-26 5678,bike,no,78902453
